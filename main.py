@@ -1,0 +1,5 @@
+print("Welcome to GPTDrome!")
+print("My name is KIM")
+print("My name is LEE")
+print("My name is CHOI")
+print("See you next time!")
